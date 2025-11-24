@@ -2,52 +2,37 @@
 Governance, Risk &amp; Compliance program for SaaS vendor - Risk assessment, security policy development, HIPAA/NIST framework alignment, and SOC II preparation. Udacity Cybersecurity Nanodegree.
 
 
-# SwiftTech GRC Program
+# SwiftTech Governance, Risk & Compliance Program
 
 ## Project Overview
-**Company**: SwiftTech (SaaS project tracking vendor)  
-**Role**: Cybersecurity GRC Analyst  
-**Assignment**: Develop governance, risk & compliance program for SOC II attestation  
 
+**Company**: SwiftTech (SaaS vendor)  
+**Assignment**: Built GRC and security compliance roadmap  
+**Focus**: Technical security posture, risk, and control evaluation  
+**Date**: October 2025
 
 ---
 
 ## What I Did
-### 1. Security Posture Assessment
-- Evaluated SwiftTech's current security posture
-- Classified risk tolerance level
-- Documented current state vs. best practices
-- Identified gaps for enterprise customers
 
-### 2. Compliance Framework Selection
-- Researched applicable compliance frameworks
-- Evaluated HIPAA, NIST CSF, and NIST SP 800-171
-- Selected frameworks aligned with customer requirements
-- Documented framework rationale
+- Evaluated SwiftTech's technical posture and gaps for enterprise customers
+- Selected and mapped HIPAA, NIST CSF, NIST 800-171 requirements
+- Audited actual security controls vs. mandatory frameworks
+- Built missing policies and technical procedures
+- Designed governance and monitoring checks for compliance
+- Recommended technical remediation and reported risks
 
-### 3. Security Gap Analysis
-- Audited current controls against frameworks
-- Identified critical security gaps
-- Prioritized vulnerabilities by severity
-- Recommended remediation roadmap
+---
 
-### 4. Risk Assessment
-- Scored key security risks
-- Assessed business impact
-- Evaluated control deficiencies
-- Prioritized by likelihood and impact
+## Skills Demonstrated
 
-### 5. Information Security Policy Development
-- Drafted security policies
-- Documented compliance requirements
-- Created policy implementation procedures
-- Designed governance mechanisms
+✅ Risk and control assessment  
+✅ Policy and compliance mapping  
+✅ Technical governance design  
+✅ Audit and monitoring documentation  
+✅ Business and technical communication
 
-### 6. Governance & Compliance Design
-- Outlined accountability structures
-- Documented monitoring procedures
-- Planned audit and verification processes
-- Designed policy enforcement methods
 
 ----
+
 Full project reports , requirement and solutions/evidence files are available in the folder.
