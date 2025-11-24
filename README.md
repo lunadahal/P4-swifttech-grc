@@ -26,11 +26,11 @@ Governance, Risk &amp; Compliance program for SaaS vendor - Risk assessment, sec
 
 ## Skills Demonstrated
 
-✅ Risk and control assessment  
-✅ Policy and compliance mapping  
-✅ Technical governance design  
-✅ Audit and monitoring documentation  
-✅ Business and technical communication
+Risk and control assessment  
+Policy and compliance mapping  
+Technical governance design  
+Audit and monitoring documentation  
+Business and technical communication
 
 
 ----
