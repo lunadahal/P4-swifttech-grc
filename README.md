@@ -48,3 +48,6 @@ Governance, Risk &amp; Compliance program for SaaS vendor - Risk assessment, sec
 - Documented monitoring procedures
 - Planned audit and verification processes
 - Designed policy enforcement methods
+
+----
+Full project reports , requirement and solutions/evidence files are available in the folder.
